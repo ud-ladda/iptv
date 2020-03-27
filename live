@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/disney-junior.png',Disney Junior
+https://iptv-kovid-19.tk/we-play/live/disneyjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/disney-xd.png',Disney XD
+https://iptv-kovid-19.tk/we-play/live/disneyxd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/gmm25.png',GMM25
+https://iptv-kovid-19.tk/we-play/live/gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/workpoint.png',Workpoint
+https://iptv-kovid-19.tk/we-play/live/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nation-channel.png',Nation Channel
+https://iptv-kovid-19.tk/we-play/live/nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/thai-pbs.png',Thai PBS
+https://iptv-kovid-19.tk/we-play/live/thaipbs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/ไทยรฐทว-เอชด.png',Thairath TV
+https://iptv-kovid-19.tk/we-play/live/thairathtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/วน-เอชด-31.png',ONE31
+https://iptv-kovid-19.tk/we-play/live/one31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/axn-hd.png',AXN HD
+https://iptv-kovid-19.tk/we-play/live/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/celestial-classic-movies.png',Celestial Classic Movies
+https://iptv-kovid-19.tk/we-play/live/ccm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-film-hd2.png',True Film HD2
+https://iptv-kovid-19.tk/we-play/live/truefilmhd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hi-def-1.png',Hi-Def 1
+https://iptv-kovid-19.tk/we-play/live/hi-def1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/kbs-world-hd.png',KBS World HD
+https://iptv-kovid-19.tk/we-play/live/kbs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/star-chinese-movies.png',Star Chinese Movies
+https://iptv-kovid-19.tk/we-play/live/scm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-flim-hd.png',True Flim HD
+https://iptv-kovid-19.tk/we-play/live/truefilmhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-thai-film.png',TRUE THAI FILM
+https://iptv-kovid-19.tk/we-play/live/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-x-zyte-hd.png',TRUE X-ZYTE HD
+https://iptv-kovid-19.tk/we-play/live/xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-family-movies.png',Fox Family Movies
+https://iptv-kovid-19.tk/we-play/live/fox-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/paramount-channel.png',Paramount Channel
+https://iptv-kovid-19.tk/we-play/live/paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-music-hd.png',TRUE MUSIC HD
+https://iptv-kovid-19.tk/we-play/live/truemusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-tennis-hd.png',TRUE TENNIS HD
+https://iptv-kovid-19.tk/we-play/live/tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nba-tv.png',NBA TV
+https://iptv-kovid-19.tk/we-play/live/nba/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/golf-channel-thailand-hd.png',Golf Channel Thailand HD
+https://iptv-kovid-19.tk/we-play/live/golf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/eurosport-asia.png',Eurosport Asia
+https://iptv-kovid-19.tk/we-play/live/ais-eurosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hits-movies.png',HITS Movies
+https://iptv-kovid-19.tk/we-play/live/hitsmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hits.png',Hits
+https://iptv-kovid-19.tk/we-play/live/hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/pptv.png',PPTV
+https://iptv-kovid-19.tk/we-play/live/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nickelodeon.png',Nickelodeon
+https://iptv-kovid-19.tk/we-play/live/nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/disney-channel.png',Disney Channel
+https://iptv-kovid-19.tk/we-play/live/disneych/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/7-hd.png',7 HD
+https://iptv-kovid-19.tk/we-play/live/ch7hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/mcot-hd.png',MCOT HD
+https://iptv-kovid-19.tk/we-play/live/mcot/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/5-hd.png',5 HD
+https://iptv-kovid-19.tk/we-play/live/ch5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/3-hd.png',3 HD
+https://iptv-kovid-19.tk/we-play/live/ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/discovery.png',Discovery
+https://iptv-kovid-19.tk/we-play/live/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bbc-earth.png',BBC earth
+https://iptv-kovid-19.tk/we-play/live/bbc-earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/discovery-asia.png',Discovery Asia
+https://iptv-kovid-19.tk/we-play/live/disasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/h2.png',H2
+https://iptv-kovid-19.tk/we-play/live/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/history.png',History
+https://iptv-kovid-19.tk/we-play/live/history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/animal-planet.png',Animal Planet
+https://iptv-kovid-19.tk/we-play/live/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/สำรวจโลก.jpg',สำรวจโลก
+https://iptv-kovid-19.tk/we-play/live/samruajlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/outdoor.png',Outdoor
+https://iptv-kovid-19.tk/we-play/live/outdoor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nat-geo-wild.png',NAT GEO WILD
+https://iptv-kovid-19.tk/we-play/live/natwild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/national-geographic.png',National Geographic
+https://iptv-kovid-19.tk/we-play/live/natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/food-network.png',Food Network
+https://iptv-kovid-19.tk/we-play/live/foodnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-extreme.png',BLUE ANT Extreme
+https://iptv-kovid-19.tk/we-play/live/blue-ext/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-entertainment.png',BLUE ANT Entertainment
+https://iptv-kovid-19.tk/we-play/live/blue-ent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/cartoon-network.png',Cartoon Network
+https://iptv-kovid-19.tk/we-play/live/cnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/warner-tv.png',Warner TV
+https://iptv-kovid-19.tk/we-play/live/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/cinemax.png',Cinemax
+https://iptv-kovid-19.tk/we-play/live/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-crime.png',FOX CRIME
+https://iptv-kovid-19.tk/we-play/live/fox-crime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-life.png',FOX life
+https://iptv-kovid-19.tk/we-play/live/fox-life/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-action-movies.png',FOX Action Movies
+https://iptv-kovid-19.tk/we-play/live/fox-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-movies.png',FOX Movies
+https://iptv-kovid-19.tk/we-play/live/fox-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hbo-family.png',HBO Family
+https://iptv-kovid-19.tk/we-play/live/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hbo-signature.png',HBO Signature
+https://iptv-kovid-19.tk/we-play/live/hbo-signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hbo-hits.png',HBO Hits
+https://iptv-kovid-19.tk/we-play/live/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/hbo.png',HBO
+https://iptv-kovid-19.tk/we-play/live/hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-7.png',True Sports 7
+https://iptv-kovid-19.tk/we-play/live/tsp7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-6.png',True Sports 6
+https://iptv-kovid-19.tk/we-play/live/tsp6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-5.png',True Sports 5
+https://iptv-kovid-19.tk/we-play/live/tsp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-2.png',True Sports 2
+https://iptv-kovid-19.tk/we-play/live/tsp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-hd-3.png',True Sports HD 3
+https://iptv-kovid-19.tk/we-play/live/thd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-hd-2.png',True Sports HD 2
+https://iptv-kovid-19.tk/we-play/live/thd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-sports-hd.png',True Sports HD
+https://iptv-kovid-19.tk/we-play/live/thd1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-3.png',FOX Sports 3
+https://iptv-kovid-19.tk/we-play/live/fox3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-2.png',FOX Sports 2
+https://iptv-kovid-19.tk/we-play/live/fox2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-hd.png',FOX Sports HD
+https://iptv-kovid-19.tk/we-play/live/fox1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-ไทย.png',FOX ไทย
+https://iptv-kovid-19.tk/we-play/live/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-2.png',beIN Sports 2
+https://iptv-kovid-19.tk/we-play/live/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-1.png',beIN Sports 1
+https://iptv-kovid-19.tk/we-play/live/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-premier-hd-5.png',True Premier HD 5
+https://iptv-kovid-19.tk/we-play/live/tpf5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-premier-hd-4.png',True Premier HD 4
+https://iptv-kovid-19.tk/we-play/live/tpf4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-premier-hd-3.png',True Premier HD 3
+https://iptv-kovid-19.tk/we-play/live/tpf3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-premier-hd-2.png',True Premier HD 2
+https://iptv-kovid-19.tk/we-play/live/tpf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
+#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-premier-hd-1.png',True Premier HD 1
+https://iptv-kovid-19.tk/we-play/live/true-epl-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIwIDExOjQwOjIwIEFNJmhhc2hfdmFsdWU9M3BnZ3BCenJhenIxNUVicStvMmFuUT09JnZhbGlkbWludXRlcz0yMA
