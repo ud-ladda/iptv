@@ -59,21 +59,21 @@ https://tv4.chang55.com/live2/tv4ch46.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8
 #EXTINF:-1,SPORTS
 https://tv4.chang55.com/live2/tv4ch48.stream/chunks.m3u8
-#EXTINF:-1,TV 3 HD 33
+#EXTINF:-1,3 HD 33
 https://tv4.chang55.com/live2/tv4ch51.stream/chunks.m3u8
-#EXTINF:-1,NNV 5 HD 1
+#EXTINF:-1,5 HD 1
 https://tv4.chang55.com/live2/tv4ch52.stream/chunks.m3u8
-#EXTINF:-1,TV 7 HD
+#EXTINF:-1,7 HD
 https://tv4.chang55.com/live2/tv4ch53.stream/chunks.m3u8
 #EXTINF:-1,8 CHANNEL 27
 https://tv4.chang55.com/live2/tv4ch54.stream/chunks.m3u8
-#EXTINF:-1,TV ONE 31 HD
+#EXTINF:-1,ONE 31 HD
 https://tv4.chang55.com/live2/tv4ch55.stream/chunks.m3u8
 #EXTINF:-1,MONO 29
 https://tv4.chang55.com/live2/tv4ch56.stream/chunks.m3u8
 #EXTINF:-1,PPTV 36 HD
 https://tv4.chang55.com/live2/tv4ch57.stream/chunks.m3u8
-#EXTINF:-1,TV 32 HD
+#EXTINF:-1,Thairath TV 32 HD
 https://tv4.chang55.com/live2/tv4ch58.stream/chunks.m3u8
 #EXTINF:-1,MCOT 30 HD
 https://tv4.chang55.com/live2/tv4ch59.stream/chunks.m3u8
@@ -81,7 +81,7 @@ https://tv4.chang55.com/live2/tv4ch59.stream/chunks.m3u8
 https://tv4.chang55.com/live2/tv4ch60.stream/chunks.m3u8
 #EXTINF:-1,TRUE 4U 24
 https://tv4.chang55.com/live2/tv4ch62.stream/chunks.m3u8
-#EXTINF:-1,TV 23 WORKPOINT
+#EXTINF:-1,WORKPOINT
 https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
 #EXTINF:-1,NBT 2 HD DIGITAL
 https://tv4.chang55.com/live2/tv4ch64.stream/chunks.m3u8
