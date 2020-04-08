@@ -1,53 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/3-hd.png',CH3 HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/3-hd.png',CH3 HD
 http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/5-hd.png',CH5 HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/5-hd.png',CH5 HD
 http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/7-hd.png',CH7 HD 
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/7-hd.png',CH7 HD 
 http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/mcot-hd.png',MCOT HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/mcot-hd.png',MCOT HD
 http://160.119.77.50/iptv/hd-mcot.stream/playlist.m3u8?p=m3u8
 #EXTINF:-1,NBT HD
 http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nation-channel.png',Nation Channel
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/nation-channel.png',Nation Channel
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv22_nationtv/playlist.m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/thai-pbs.png',ThaiPBS HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/thai-pbs.png',ThaiPBS HD
 http://160.119.77.50/iptv/hd-tpbs.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/pptv.png',PPTV HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/pptv.png',PPTV HD
 http://160.119.77.50/iptv/hd-pptv.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/gmm25.png',GMM25
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/gmm25.png',GMM25
 http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/วน-เอชด-31.png',ONE HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/วน-เอชด-31.png',ONE HD
 http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title="ฟรี TV"tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mono29.png",MONO29
 http://27.254.130.64/live01/ch3.m3u8?p=m3u8
-#EXTINF:-1 group-title="หนัง "tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/monoplus.png",MONO PLUS
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
 #EXTINF:-1,Amarin HD
 http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/workpoint.png',Workpoint
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/workpoint.png',Workpoint
 http://160.119.77.50/iptv/hd-workpoint.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/ไทยรฐทว-เอชด.png',Thairath TV
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/ไทยรฐทว-เอชด.png',Thairath TV
 http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1,True4U
-https://tv4.chang55.com/live2/tv4ch62.stream/chunks.m3u8
-#EXTINF:-1,TPTV
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
 #EXTINF:-1,TNN24
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv16_tnn24/playlist.m3u8
 #EXTINF:-1,Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1,NEWS TV
 http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-x-zyte-hd.png',TRUE X-ZYTE HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/true-x-zyte-hd.png',TRUE X-ZYTE HD
 http://160.119.77.50/iptv/hd-xzyte.stream/playlist.m3u8?p=m3u8
 #EXTINF:-1 , mtvlive
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-action-movies.png',FOX Action Movies
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-action-movies.png',FOX Action Movies
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-ไทย.png',FOX ไทย
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-ไทย.png',FOX ไทย
 http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/axn-hd.png',AXN HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/axn-hd.png',AXN HD
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8?p=m3u8
 #EXTINF:-1 , cartoonito
 http://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8?p=m3u8
@@ -81,15 +77,15 @@ http://160.119.77.50/iptv/hd-golf.stream/playlist.m3u8?p=m3u8
 http://160.119.77.50/iptv/hd-tennis.stream/playlist.m3u8?p=m3u8
 #EXTINF:-1 , nba
 http://160.119.77.50/iptv/hd-nba.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-hd.png',FOX Sports HD
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-hd.png',FOX Sports HD
 http://160.119.77.50/iptv/hd-foxsports1.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-2.png',FOX Sports 2
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-2.png',FOX Sports 2
 http://160.119.77.50/iptv/sd-foxsports2.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-3.png',FOX Sports 3
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/fox-sports-3.png',FOX Sports 3
 http://160.119.77.50/iptv/sd-foxsports3.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-1.png',beIN Sports 1
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-1.png',beIN Sports 1
 http://160.119.77.50/iptv/hd-bein1.stream/playlist.m3u8?p=m3u8
-#EXTINF:-1 group-title='Live'tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-2.png',beIN Sports 2
+#EXTINF:-1 tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/bein-sports-2.png',beIN Sports 2
 http://160.119.77.50/iptv/hd-bein2.stream/playlist.m3u8?p=m3u8
 #EXTINF:-1 , epl
 http://160.119.77.50/iptv/epl-1.stream/playlist.m3u8?p=m3u8
